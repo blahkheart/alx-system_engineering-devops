@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -F "Alea iacta est (" iacta
+head -3 iacta | tail +3
