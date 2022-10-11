@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -F "Alea iacta" iacta
+grep -F "Alea iacta est (" iacta
